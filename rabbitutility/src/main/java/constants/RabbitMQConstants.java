@@ -1,4 +1,4 @@
-package com.rodsussumu.publisher.constants;
+package constants;
 
 public class RabbitMQConstants {
     public static final String QUEUE_STOCK = "QUEUE_STOCK";

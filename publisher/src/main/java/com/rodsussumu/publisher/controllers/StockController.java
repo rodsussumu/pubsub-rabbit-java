@@ -1,8 +1,9 @@
 package com.rodsussumu.publisher.controllers;
 
-import com.rodsussumu.publisher.constants.RabbitMQConstants;
-import com.rodsussumu.publisher.dtos.StockDTO;
+
 import com.rodsussumu.publisher.services.RabbitMQService;
+import constants.RabbitMQConstants;
+import dtos.StockDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

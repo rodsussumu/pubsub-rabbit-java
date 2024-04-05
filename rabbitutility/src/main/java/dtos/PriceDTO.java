@@ -1,4 +1,4 @@
-package com.rodsussumu.publisher.dtos;
+package dtos;
 
 import java.io.Serializable;
 

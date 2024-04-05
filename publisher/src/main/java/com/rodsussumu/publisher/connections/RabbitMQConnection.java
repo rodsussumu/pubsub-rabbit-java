@@ -1,6 +1,6 @@
 package com.rodsussumu.publisher.connections;
 
-import com.rodsussumu.publisher.constants.RabbitMQConstants;
+import constants.RabbitMQConstants;
 import org.springframework.amqp.core.AmqpAdmin;
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.DirectExchange;
